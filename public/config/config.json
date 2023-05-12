@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf78005a66a8d05a66fcbf72ade3b5ea33d01ffa1",
+  "SCAN_LINK": "https://explorer.evm.eosnetwork.com/address/0xf78005A66A8d05A66FcbF72aDE3b5eA33D01Ffa1",
+  "NETWORK": {
+    "NAME": "PulseChain",
+    "SYMBOL": "PLS",
+    "ID": 17777
+  },
+  "NFT_NAME": "PulseChain V2 Punks",
+  "SYMBOL": "PCP",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 600000000000000000,
+  "DISPLAY_COST": 0.6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
