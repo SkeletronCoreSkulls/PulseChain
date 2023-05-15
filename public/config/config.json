@@ -4,11 +4,11 @@
   "NETWORK": {
     "NAME": "PulseChain",
     "SYMBOL": "PLS",
-    "ID": 17777
+    "ID": 369
   },
-  "NFT_NAME": "PulseChain V2 Punks",
+  "NFT_NAME": "PulseChain Punks",
   "SYMBOL": "PCP",
-  "MAX_SUPPLY": 7777,
+  "MAX_SUPPLY": 8888,
   "WEI_COST": 600000000000000000,
   "DISPLAY_COST": 0.6,
   "GAS_LIMIT": 285000,
