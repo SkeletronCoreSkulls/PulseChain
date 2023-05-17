@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x",
-  "SCAN_LINK": "s",
+  "CONTRACT_ADDRESS": "0xf78005a66a8d05a66fcbf72ade3b5ea33d01ffa1",
+  "SCAN_LINK": "https://scan.pulsechain.com",
   "NETWORK": {
     "NAME": "PulseChain",
     "SYMBOL": "PLS",
@@ -10,7 +10,7 @@
   "SYMBOL": "PCP",
   "MAX_SUPPLY": 8888,
   "WEI_COST": 600000000000000000,
-  "DISPLAY_COST": 40000,
+  "DISPLAY_COST": 0.6,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Soon",
   "MARKETPLACE_LINK": "",
