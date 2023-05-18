@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xf78005a66a8d05a66fcbf72ade3b5ea33d01ffa1",
-  "SCAN_LINK": "https://scan.pulsechain.com",
+  "CONTRACT_ADDRESS": "0x009EAEf56211B55779Ad75c96e03730A892871d7",
+  "SCAN_LINK": "https://scan.pulsechain.com/address/0x009EAEf56211B55779Ad75c96e03730A892871d7",
   "NETWORK": {
     "NAME": "PulseChain",
     "SYMBOL": "PLS",
@@ -9,8 +9,8 @@
   "NFT_NAME": "PulseChain Punks",
   "SYMBOL": "PCP",
   "MAX_SUPPLY": 8888,
-  "WEI_COST": 600000000000000000,
-  "DISPLAY_COST": 40000,
+  "WEI_COST": 80000000000000000000000,
+  "DISPLAY_COST": 80000,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Soon",
   "MARKETPLACE_LINK": "",
