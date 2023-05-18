@@ -127,7 +127,7 @@ function App() {
 let totalCostWeiNum = cost * mintAmount
     let totalGasLimit = String(gasLimit * mintAmount);
     console.log("Cost: ", totalCostWei);
-console.log("llegue33333333333333")
+console.log("llegue44444")
 let asd = BigInt(totalCostWeiNum).toString();
 console.log("Gas limit3333: ", asd);
 
@@ -142,7 +142,7 @@ console.log("Gas limit3333: ", asd);
         gasLimit: String(totalGasLimit),
         to: CONFIG.CONTRACT_ADDRESS,
         from: blockchain.account,
-        value: BigInt(totalCostWei).toString(),
+        value: asd,
       })
       .once("error", (err) => {
         console.log(err);
