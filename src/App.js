@@ -135,7 +135,7 @@ function App() {
         gasLimit: String(totalGasLimit),
         to: CONFIG.CONTRACT_ADDRESS,
         from: blockchain.account,
-        value: totalCostWei,
+        value: BigInt(totalCostWei),
       })
       .once("error", (err) => {
         console.log(err);
