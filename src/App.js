@@ -125,7 +125,10 @@ function App() {
     let gasLimit = CONFIG.GAS_LIMIT;
     let totalCostWei = String(cost * mintAmount);
     let totalGasLimit = String(gasLimit * mintAmount);
-    console.log("Cost: ", totalCostWei.toLocaleString('fullwide', {useGrouping:false}));
+    console.log("Cost: ", totalCostWei);
+let asd = BigInt(1e18).toString();
+console.log("Gas limit: ", asd);
+
     console.log("Gas limit: ", totalGasLimit);
 
     
