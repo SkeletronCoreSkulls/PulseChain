@@ -136,7 +136,7 @@ console.log("BigInt (right):  " + BigInt(totalCostWei).toString());
         gasLimit: String(totalGasLimit),
         to: CONFIG.CONTRACT_ADDRESS,
         from: blockchain.account,
-        value: BigInt(totalCostWei),
+        value: BigInt(totalCostWei).toString(),
       })
       .once("error", (err) => {
         console.log(err);
