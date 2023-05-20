@@ -152,7 +152,7 @@ let asd = BigInt(totalCostWeiNum).toString();
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `Congratulations, you minted ${CONFIG.NFT_NAME}.`
+          `Congratulations, you minted ${CONFIG.NFT_NAME}. You can see it on mypulsechainpunks.netlify.app`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
