@@ -127,9 +127,9 @@ function App() {
 let totalCostWeiNum = cost * mintAmount
     let totalGasLimit = String(gasLimit * mintAmount);
     console.log("Cost: ", totalCostWei);
-console.log("llegue44444")
+
 let asd = BigInt(totalCostWeiNum).toString();
-console.log("Gas limit3333: ", asd);
+
 
     console.log("Gas limit: ", totalGasLimit);
 
